@@ -3,7 +3,7 @@
 
 ### 🤖 Aspiring AI Specialist | 🐍 Python Learner | 🏋️ Calisthenics Practitioner
 
-I am a 14-year-old developer from South Africa, currently "locking in" to become a professional AI Specialist by the age of 18. I believe in discipline, logic, and consistent growth.
+I am a 14-year-old developer, that's currently "locking in" to become a professional AI Specialist by the age of 18. I believe in discipline, logic, and consistent growth.
 
 ---
 
