@@ -17,7 +17,6 @@ I am a 14-year-old developer from South Africa, currently "locking in" to become
 
 ## ⚡ Beyond the Code
 * **Fitness:** Dedicated to bodyweight calisthenics and physical discipline.
-* **Business:** Founder of a service-based gaming venture in Roblox (Blox Fruits).
 * **Mindset:** "Ghost Mode"—staying focused, staying quiet, and letting the results speak.
 
 ---
