@@ -22,4 +22,13 @@ I am a 14-year-old developer, that's currently "locking in" to become a professi
 ---
 
 *"Consistency beats intensity every time."*
+## 📈 The Progress Tracker
+
+| Goal | Target Date | Status |
+| :--- | :--- | :--- |
+| First Python Project | March 2026 | 🟢 In Progress |
+| GitHub 30-Day Streak | April 2026 | 🟡 Starting |
+| Website for Her 🎂 | [Birthday] | 🔒 Classified |
+| AI Specialist Level | 2029 | ⏳ Loading... |
+
 
